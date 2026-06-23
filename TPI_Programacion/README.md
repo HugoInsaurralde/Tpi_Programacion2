@@ -28,7 +28,7 @@ Todo el almacenamiento de datos se gestiona en memoria utilizando Colecciones de
 
 3\. Asegurarse de tener configurado el \*\*JDK 21\*\*.
 
-4\. Ubicar y compilar la clase `MainConsola.java` (ubicada en el paquete `Main`).
+4\. Ubicar y compilar la clase MainConsola.java (ubicada en el paquete Main).
 
 5\. Ejecutar el proyecto para interactuar con el menú principal a través de la consola.
 
