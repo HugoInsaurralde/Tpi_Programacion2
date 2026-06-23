@@ -6,7 +6,7 @@ package Interfaces;
 
 /**
  *
- * @author Hugo Insaurralde
+ * @author Lucia Ortiz
  */
 public interface Calculable {
     void CalcularTotal();

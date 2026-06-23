@@ -6,7 +6,7 @@ package Exceptions;
 
 /**
  *
- * @author Hugo Insaurralde
+ * @author Lucia Ortiz
  */
 public class EntidadNoEncontradaException extends Exception{
     public EntidadNoEncontradaException(String mensaje) {

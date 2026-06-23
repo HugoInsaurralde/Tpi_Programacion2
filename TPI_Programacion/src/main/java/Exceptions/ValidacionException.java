@@ -6,7 +6,7 @@ package Exceptions;
 
 /**
  *
- * @author Hugo Insaurralde
+ * @author Lucia Ortiz
  */
 public class ValidacionException extends Exception{
     public ValidacionException(String mensaje) {
