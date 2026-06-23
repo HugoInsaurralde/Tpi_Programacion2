@@ -28,13 +28,13 @@ Todo el almacenamiento de datos se gestiona en memoria utilizando Colecciones de
 
 En el siguiente enlace se encuentra el recorrido completo por el flujo del programa, validando el cumplimiento de los requisitos solicitados:
 
-* Ver Video Demostración: [INGRESAR_LINK_AQUI] *(Nota: El video cuenta con permisos públicos de visualización).*
+* Ver Video Demostración: https://www.youtube.com/watch?v=K46FJYgmlPM
 
 ## Documentación Técnica
 
 El documento PDF con el marco teórico, el diagrama UML, las decisiones técnicas de arquitectura y las conclusiones del equipo se encuentra en la raíz de este repositorio bajo el nombre:
 
-* **[NOMBRE_DEL_ARCHIVO_PDF.pdf]**
+*Documentacion_FoodStore.pdf
 
 ## Equipo de Desarrollo
 
